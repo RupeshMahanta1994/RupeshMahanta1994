@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshmahanta1994&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshmahanta1994" /> </p>
 
-- 🔭 I’m currently working on **IRSSE Website**
-
-- 🌱 I’m currently learning **React.js Express Next.js**
-
+- 🔭 I'm currently building enterprise apps for a global airline client at Infosys, and side projects like [Evenly](https://github.com/RupeshMahanta1994/Evenly), a group expense splitter on a double-entry ledger
+  
+- 🌱 I'm currently learning system design, microservices and Kubernetes, and sharing it on [BuildWithRupesh](https://www.youtube.com/@BuildWithRupesh)
+  
 - 👨‍💻 All of my projects are available at [https://portfolio-three-beta-asubn6e94g.vercel.app/](https://portfolio-three-beta-asubn6e94g.vercel.app/)
 
-- 💬 Ask me about **react javascript html css**
+- 💬 Ask me about Java, Spring Boot, React, TypeScript and SQL
 
 - 📄 Know about my experiences [linkedin.com/in/rupesh-mahanta](linkedin.com/in/rupesh-mahanta)
 
